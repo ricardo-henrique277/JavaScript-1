@@ -1,28 +1,28 @@
 const precosLivros = [
     {
         titulo: "O JOGO",
-        preco: 25
+        preco: 67
     },
     {
         titulo: "manual do suicidio",
-        preco: 15
+        preco: 11
     },
     {
         titulo: "authentic games",
-        preco: 30
+        preco: 277
     },
     {
         titulo: "marretada do thor",
-        preco: 50
+        preco: 69
     },
     {
         titulo: "peitin do galego",
-        preco: 45
+        preco: 41
     },
     {
         titulo: "como abrir um livro, O LIVRO EDITION",
-        preco: 20
-    }
+        preco: 51
+    },
 ];
 
-module.exports = precosLivros;
+module.exports = this.livros;
