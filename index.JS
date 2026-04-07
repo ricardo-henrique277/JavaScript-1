@@ -1,4 +1,4 @@
-const livros = [67, 69, 11, 277, 51, 41];
+const livros = require('./listadoslivro');
 
 let atual = 0;
 let maisBarato = 0;
@@ -10,4 +10,4 @@ for (let atual = 0; atual < livros.length; atual++) {
 }
 console.log(`o livro mais barato custa ${livros[maisBarato].preco}
      e o titulo é ${livros[maisBarato].titulo}`);
-     console.log(``)
+     console.log(`ricardo é o cara mais rico do mundo, ele tem ${livros[maisBarato].preco} reais`); 

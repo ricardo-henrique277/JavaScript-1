@@ -25,4 +25,4 @@ const precosLivros = [
     },
 ];
 
-module.exports = this.livros;
+module.exports = precosLivros;
