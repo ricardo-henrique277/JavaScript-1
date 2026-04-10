@@ -8,8 +8,8 @@ const precosLivros = [
         preco: 11
     },
     {
-        titulo: "authentic games",
-        preco: 277
+        titulo: "como baixar o orangotango santificado sem virus atualizado de gratis sem hack rapido e facil 2027.apk",
+        preco: 41
     },
     {
         titulo: "marretada do thor",
@@ -25,4 +25,3 @@ const precosLivros = [
     },
 ];
 
-module.exports = precosLivros;
